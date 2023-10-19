@@ -1,0 +1,26 @@
+{
+  "GENERAL": {
+    "SUCCESS": {
+      "slug": "GENERAL_SUCCESS",
+      "description": "Операция выполнена успешно"
+    },
+    "ERROR_UNKNOWN": {
+      "slug": "GENERAL_ERROR_UNKNOWN",
+      "description": "Сервер ответил, но ответ не понятен"
+    },
+    "ERROR_SERVER": {
+      "slug": "GENERAL_ERROR_SERVER",
+      "description": "Ошибка сервера (сработал блок catch)"
+    }
+  },
+  "FILES": {
+    "ERROR_DIRECTORY_NOT_EXISTS": {
+      "slug": "FILES_ERROR_DIRECTORY_NOT_EXISTS",
+      "description": "Директория которую вы указали не существует"
+    },
+    "ERROR_DIRECTORY_NOT_EXISTS1": {
+      "slug": "FILES_ERROR_DIRECTORY_NOT_EXISTS1",
+      "description": "Директория которую вы указали не существует"
+    }
+  }
+}
